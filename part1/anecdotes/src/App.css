@@ -1,0 +1,25 @@
+/* App.css */
+.anecdote-container {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+}
+
+.anecdote-container h2 {
+    margin-bottom: 10px;
+}
+
+.anecdote-container p {
+    margin-bottom: 10px;
+}
+
+.button-container {
+    margin-bottom: 20px;
+}
+
+.button-container button {
+    margin-right: 10px;
+}
+
+.most-voted {
+    margin-top: 30px;
+}
